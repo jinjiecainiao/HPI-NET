@@ -21,7 +21,6 @@ Thumbs.db
 
 # Logs
 *.log
-
 # Dataset (ignore all contents)
-dataset/**
+# dataset/**
 
